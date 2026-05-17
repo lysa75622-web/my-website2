@@ -1,4 +1,5 @@
 {
+{
   "settings": {
     "name": "Create a modern website for a Computer Science project.",
     "currentPage": "index.html",
@@ -17,6 +18,8 @@
         "infoColor": "#0AA3C2",
         "warningColor": "#CC9900",
         "dangerColor": "#AE1E2C",
+
+"customAccentColor": "#FF5733",
         "mainFont": "Inter Tight",
         "display1Font": "Inter Tight",
         "display1Size": 5,
